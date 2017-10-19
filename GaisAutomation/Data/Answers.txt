@@ -1,0 +1,7 @@
+﻿Arbejdsglæde generelt,Medbestemmelse,Mening,Mestring,Resultater,Ledelse,Kollegaer,Balance,Afsluttende spÃ¸rgsmÃ¥l
+5,3,9,8,7,1,6,8,Balance
+8,3,8,2,5,10,7,0,
+5,4,6,6,8,9,6,8,
+8,6,6,,8,5,7,,
+8,1,5,,6,9,5,,
+,,10,,,2,8,,

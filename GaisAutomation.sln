@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaisAutomation", "GaisAutomation\GaisAutomation.csproj", "{AB363421-CCD4-487B-8AA1-760EC78F7953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaisTests", "GaisTests\GaisTests.csproj", "{DCC12D07-9671-456A-8E9E-5365BFFACF76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB363421-CCD4-487B-8AA1-760EC78F7953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB363421-CCD4-487B-8AA1-760EC78F7953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB363421-CCD4-487B-8AA1-760EC78F7953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB363421-CCD4-487B-8AA1-760EC78F7953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC12D07-9671-456A-8E9E-5365BFFACF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC12D07-9671-456A-8E9E-5365BFFACF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC12D07-9671-456A-8E9E-5365BFFACF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC12D07-9671-456A-8E9E-5365BFFACF76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
