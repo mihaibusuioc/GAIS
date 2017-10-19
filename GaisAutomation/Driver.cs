@@ -15,12 +15,12 @@ namespace GaisAutomation
 
         public static void Intialize()
         {
-            Instance = new ChromeDriver();
+            //Instance = new ChromeDriver();
 
-            //DesiredCapabilities capability = DesiredCapabilities.Chrome();
-            //capability.SetCapability("browserstack.user", "ahmetmulalic1");
-            //capability.SetCapability("browserstack.key", "8gngLczaH8sF3V3sW3qp");
-            //Instance = new RemoteWebDriver(new Uri("http://hub-cloud.browserstack.com/wd/hub/"), capability);
+            DesiredCapabilities capability = DesiredCapabilities.Chrome();
+            capability.SetCapability("browserstack.user", "ahmetmulalic1");
+            capability.SetCapability("browserstack.key", "8gngLczaH8sF3V3sW3qp");
+            Instance = new RemoteWebDriver(new Uri("http://hub-cloud.browserstack.com/wd/hub/"), capability);
 
             Instance.Manage().Window.Maximize();
         }
